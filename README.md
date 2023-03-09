@@ -4,8 +4,6 @@
 ~~~
 - Bedrock edition clients can join
 - Any client 1.19 - 1.19.3 can join (1.19.x)
-- Chat reporting / signatures have been disabled (For vanilla players as well!)
-- World border is 5000 blocks in every direction. May be updated in the future.
 - World is pre-generated to ensure minimal lag
 - Ground / unwanted entities are regularly cleared
 ~~~
@@ -73,6 +71,9 @@ additional hearts will reset if you die.
 
 - Proximity push to talk voice chat is available using the "Simple Voice Chat" mod! (Server)
 - VR support plugin
+
+- Chat reporting / signatures have been disabled (For vanilla players as well!)
+- World border is 5000 blocks in every direction. May be updated in the future.
 
 - Anticheat
 ~~~
