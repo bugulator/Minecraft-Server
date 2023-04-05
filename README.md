@@ -3,7 +3,7 @@
 ## [General Server Changes]:
 ~~~
 - Bedrock edition clients can join
-- Any client 1.19 - 1.19.3 can join (1.19.x)
+- Any client 1.19 - 1.19.4 can join (1.19.x)
 - World is pre-generated to ensure minimal lag
 - Ground / unwanted entities are regularly cleared
 ~~~
