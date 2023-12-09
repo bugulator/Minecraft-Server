@@ -1,9 +1,9 @@
-# Minecraft-Server 1.19.x
+# Ideas for Minecraft Server
 
 ## [General Server Changes]:
 ~~~
 - Bedrock edition clients can join
-- Any client 1.19 - 1.19.4 can join (1.19.x)
+- Multiple client join configuration
 - World is pre-generated to ensure minimal lag
 - Ground / unwanted entities are regularly cleared
 ~~~
@@ -77,4 +77,3 @@ additional hearts will reset if you die.
 
 - Anticheat
 ~~~
-
